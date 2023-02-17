@@ -4,4 +4,4 @@
 </script>
 
 <slot />
-<footer />
+<Footer />
